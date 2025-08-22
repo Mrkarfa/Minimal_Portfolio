@@ -1,9 +1,10 @@
-# ✨ Minimal Portfolio
+<div align="center">
+✨ Minimal Portfolio
+</div>
 
 <div align="center">
 
-![Minimal Portfolio Banner](<img width="630" height="390" alt="image" src="https://github.com/user-attachments/assets/b4dcfc77-ef77-40f7-beef-0160512b52a8" />
-)
+<img width="630" height="390" alt="image" src="https://github.com/user-attachments/assets/b4dcfc77-ef77-40f7-beef-0160512b52a8" />
 
 **Less is more. Clean design, maximum impact.**
 
