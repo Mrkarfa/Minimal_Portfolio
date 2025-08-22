@@ -43,8 +43,8 @@ function Contact() {
       <div className="mt-8 space-y-4 contact-fade">
         <p className="text-white/85 text-sm md:text-base">
           You can reach me out anytime at{' '}
-          <a href="mailto:hello@hudovich.dev" className="text-amber-300 underline underline-offset-4 hover:text-amber-200">
-            hello@hudovich.dev
+          <a href="mailto:souvikkarfa40227@gmail.com" className="text-amber-300 underline underline-offset-4 hover:text-amber-200">
+            souvikkarfa40227@gmail.com
           </a>
         </p>
         <p className="text-white/85 text-sm md:text-base">
